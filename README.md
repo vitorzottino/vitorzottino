@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor Zottino</h1>
 - 📫 How to reach me: vitor.zottino@gmail.com
 <br>
-- Bachelor's degree Information Systems 5/8 - FIAP
+- Bachelor's degree Information Systems 6/8 - FIAP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
